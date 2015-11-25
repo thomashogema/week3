@@ -7,9 +7,9 @@ public class Nhgh {
        
 	}
 	
-	public void gekkeThomas(){
+	public void rareMark(){
 		//doStuff();
 	}
 
 }
-}
+
